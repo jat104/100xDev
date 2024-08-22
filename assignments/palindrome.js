@@ -14,4 +14,4 @@ function isPalindrome(str) {
     }
 }
 
-module.exports = isPalindrome
+module.exports = isPalindrome;
